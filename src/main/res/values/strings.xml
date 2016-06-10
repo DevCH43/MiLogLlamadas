@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MiLogLlamadas</string>
+
+    <string name="tvLlamadadas">LLamadas</string>
+    <string name="btnMostrarLogLlamadas">Mostrar Log Llamadas</string>
+
+    <string name="CallEntrada">Entrada</string>
+    <string name="CallSalida">Salida</string>
+    <string name="CallPerdida">Perdida</string>
+    <string name="CallDesconocida">Desonocida</string>
+
+    <string name="lblNumero">Numero: </string>
+    <string name="lblFecha">Fecha: </string>
+    <string name="lblTipo">Tipo: </string>
+    <string name="lblDuracion">Duración: </string>
+
+</resources>
